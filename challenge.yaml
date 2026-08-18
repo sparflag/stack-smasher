@@ -1,0 +1,7 @@
+slug: stack-smasher
+title: Stack Smasher
+category: binary exploitation
+difficulty: medium
+points: 300
+codec: fernet
+repo_url: https://github.com/sparflag/stack-smasher
